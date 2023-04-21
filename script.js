@@ -1,4 +1,4 @@
-var a = document.querySelector('.hell')
+var a = document.querySelector('.count')
 
 setTimeout(()=>{
  a.innerText=10
